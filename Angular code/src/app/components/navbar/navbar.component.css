@@ -1,0 +1,7 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+#headercol{
+  background-color:#52BE80;
+  color:black
+}
